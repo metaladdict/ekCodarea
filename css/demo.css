@@ -1,0 +1,22 @@
+/* CSS Document */
+/*!
+ * Auteur : Erwan Kuznik
+ */
+/* CSS Document */
+/**** ekCodarea variables ****/
+/* CSS Document */
+.ekCodarea {
+  font-family: "Courier New", Courier, monospace;
+}
+.ekCodarea ol {
+  margin-left: 20px;
+  background-color: #cccccc;
+  color: #ffffff;
+}
+.ekCodarea ol li {
+  white-space: pre-wrap;
+  background-color: #dddddd;
+  color: #333333;
+  padding: 0 8px;
+  border-bottom: 1px solid #555555;
+}
