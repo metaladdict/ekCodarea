@@ -1,4 +1,4 @@
-ekCode
+ekCodarea
 ================================
 
 Erwan Kuznik
@@ -6,9 +6,9 @@ Erwan Kuznik
 http://www.wdev.pro
 
 
-What is ekCode?
+What is ekCodarea?
 ------------------
-ekScroll is a very simple jQuery plugin create code pan, with line numbers in html pages.
+ekCodarea is a very simple jQuery plugin create code pan, with line numbers in html pages.
 
 It depends only on jQuery
 
